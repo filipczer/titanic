@@ -241,5 +241,4 @@ y_predict = clf.predict(X_test)
 
 # In[31]:
 
-
 y_predict
